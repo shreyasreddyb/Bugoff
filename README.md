@@ -1,4 +1,4 @@
-# Custom Anti-Virus System
+# Bug off (Custom Anti-Virus System)
 
 This repository provides a powerful, machine learning-augmented, memory-scanning, and sandbox-enabled Anti-Virus CLI tool. It integrates real-time monitoring, anomaly detection, ML-based threat classification, YARA-based file scanning, and memory scanning to deliver a robust malware detection and analysis solution.
 
@@ -162,3 +162,4 @@ URLhaus Threat Intelligence Feed
 psutil and pyinotify Python Libraries
 
 Open-source Cybersecurity Tools Community
+
